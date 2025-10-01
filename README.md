@@ -16,6 +16,7 @@ This repository documents my 9-month journey learning machine learning and AI en
 - **Phase 4 (Months 8-9):** Capstone - Healthcare AI Agent
 
 ## 📁 Repository Structure
+```
 ML-Learning-Journey/
 ├── Month-01/          # Foundation learning and projects
 ├── Month-02/          # Supervised learning mastery
@@ -29,15 +30,7 @@ ML-Learning-Journey/
 ├── Projects/          # All mini-projects and assignments
 ├── Resources/         # Learning materials and references
 └── Documentation/     # Progress reports and reflections
-
-
-## 🚀 Current Progress
-
-- [x] Program planning and setup
-- [x] GitHub repository creation
-- [x] Learning plan imported to Google Sheets
-- [ ] Development environment setup
-- [ ] Day 1: Mathematical thinking introduction
+```
 
 ## 📊 Key Projects
 
@@ -77,8 +70,8 @@ ML-Learning-Journey/
 
 ## 📞 Connect
 
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Email:** [Your Email]
+- **LinkedIn:** https://www.linkedin.com/in/peter-oiko-nyameino-a87033a6/
+- **Email:** oikopeter@gmail.com
 - **Location:** Kenya
 
 ---
