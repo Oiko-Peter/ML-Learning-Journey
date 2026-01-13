@@ -18,15 +18,6 @@ This repository documents my 9-month journey learning machine learning and AI en
 ## 📁 Repository Structure
 ```
 ML-Learning-Journey/
-├── Month-01/          # Foundation learning and projects
-├── Month-02/          # Supervised learning mastery
-├── Month-03/          # Deep learning and computer vision
-├── Month-04/          # Advanced computer vision
-├── Month-05/          # Natural language processing
-├── Month-06/          # AI agents and engineering
-├── Month-07/          # MLOps and deployment
-├── Month-08/          # Capstone project development
-├── Month-09/          # Project completion and career prep
 ├── Projects/          # All mini-projects and assignments
 ├── Resources/         # Learning materials and references
 └── Documentation/     # Progress reports and reflections
