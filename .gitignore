@@ -1,3 +1,14 @@
+# Data files
+*.csv
+*.xlsx
+*.xls
+data/
+*.zip
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
 # Virtual environment
 ml_env/
 venv/
